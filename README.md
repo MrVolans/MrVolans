@@ -4,5 +4,5 @@
 ## 👋 Hello! Welcome to my humble profile. 
 ### ☕ Allow me to prepare a cup of tea or coffee for you, and while I do take a moment to look around. 
 ### What's that? There's nothing here? O.O 
-###My bad, here's your hot beverage anyways. :D
+### My bad, here's your hot beverage anyways. :D
 
