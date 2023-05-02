@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T12:05:46.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64" version="21.0.10" etag="6p4AK3vtNanq1ksFVUJ8" type="github"><diagram name="Side-1" id="DsbVVO9F-8dWzqwAxhLw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-05-02T12:08:38.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64" etag="-S4gD97mg7-sjrW8rIJS" version="21.0.10" type="github">
+  <diagram name="Side-1" id="DsbVVO9F-8dWzqwAxhLw">
+    <mxGraphModel dx="1377" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1twYcJlG7N5wxxC2fT0R-1" value="/box_queue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1twYcJlG7N5wxxC2fT0R-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1twYcJlG7N5wxxC2fT0R-4" value="/conveyor_controller" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="225" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1twYcJlG7N5wxxC2fT0R-5" value="/robot_controller" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="380" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1twYcJlG7N5wxxC2fT0R-7" value="/robot_driver" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="450" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
